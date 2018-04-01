@@ -1,0 +1,5 @@
+﻿CurrentProfile=
+Profiles=
+SaveGamePath=C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\[YOUR ID HERE]
+GameId=4311
+GameExe=

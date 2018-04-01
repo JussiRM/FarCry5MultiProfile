@@ -1,5 +1,4 @@
-﻿using FarCry5MultiProfile.Properties;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -31,11 +30,6 @@ namespace FarCry5MultiProfile
             _profileManager = ProfileManager.Instance;
 
             RefreshCombobox();
-
-            if (_profileManager.Profiles.Count > 0) { 
-                ProfileList.SelectedValue = Settings.Default.CurrentProfile;
-                Settings.Default.Save();
-            }
 
             CheckStartGameButton();
         }
