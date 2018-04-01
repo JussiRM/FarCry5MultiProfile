@@ -1,7 +1,21 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FarCry5MultiProfile.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CurrentProfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Profiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SaveGamePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\[YOUR ID HERE]</Value>
+    </Setting>
+    <Setting Name="GameId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4311</Value>
+    </Setting>
+    <Setting Name="GameExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
 </SettingsFile>
